@@ -1,11 +1,21 @@
-Hi there! 👋 I'm Jacob Taylor
-I'm a sophomore Computer Science student at UMass Amherst with a passion for cybersecurity, ethical hacking, and penetration testing. I enjoy exploring the intersections of technology, security, and problem-solving, and I'm driven to make systems safer and more resilient.
+# 👋 Hi there! I'm Jacob Taylor
 
-🎯 Skills & Interests:
+I'm a sophomore **Computer Science** student at **UMass Amherst**, with a passion for **cybersecurity**, **ethical hacking**, and **penetration testing**. I love exploring how technology can be made more secure through creative problem-solving and advanced security practices.
 
--Cybersecurity principles and ethical hacking practices -Network scanning and penetration testing tools -Python scripting for security utilities -Always learning and experimenting with new tech
-  
-<!---
-JacobTaylor3/JacobTaylor3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🎯 Skills & Interests
+
+- **Cybersecurity Principles**: Ethical hacking, vulnerability detection, and prevention
+- **Tools**: Network scanners, penetration testing utilities, and custom scripts
+- **Programming**: Python scripting, problem-solving, and automation
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 **Email**: [jacobtaylor048@gmail.com](mailto:jacobtaylor048@gmail.com)
+
+---
+
+### 🚀 *Let’s collaborate!
