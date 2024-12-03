@@ -3,10 +3,10 @@ I'm a sophomore Computer Science student at UMass Amherst with a passion for cyb
 
 🎯 Skills & Interests:
 
-Cybersecurity principles and ethical hacking practices
-Network scanning and penetration testing tools
-Python scripting for security utilities
-Always learning and experimenting with new tech
+-Cybersecurity principles and ethical hacking practices
+-Network scanning and penetration testing tools
+-Python scripting for security utilities
+-Always learning and experimenting with new tech
   
 <!---
 JacobTaylor3/JacobTaylor3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
