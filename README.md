@@ -18,4 +18,4 @@ I'm a sophomore **Computer Science** student at **UMass Amherst**, with a passio
 
 ---
 
-### 🚀 *Let’s collaborate!
+### 🚀 Open to collaborate!
