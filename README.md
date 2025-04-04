@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jacob Taylor
 
-I'm a junior **Computer Science** student at **UMass Amherst**, with a passion for **cybersecurity**, **ethical hacking**, and **penetration testing**. I love exploring how technology can be made more secure through creative problem-solving and advanced security practices.
+I'm a  **Computer Science** student at **UMass Amherst**, with a passion for **cybersecurity**, **ethical hacking**, and **penetration testing**. I love exploring how technology can be made more secure through creative problem-solving and advanced security practices.
 
 ---
 
